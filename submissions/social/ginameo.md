@@ -65,6 +65,6 @@ PrivChat combines **true communication privacy** with **trustless identity verif
 
 ## Contact
 DM me on Discord: meongkuy#1879 
-Or email: meongkuy9@gmail.com (optional)
+Or email: meongkuy9@gmail.com
 
 
