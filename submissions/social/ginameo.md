@@ -68,8 +68,3 @@ DM me on Discord: meongkuy#1879
 Or email: meongkuy9@gmail.com (optional)
 
 
-**Checklist before submitting:**
-- [ ] All fields completed
-- [ ] GitHub username matches PR author  
-- [ ] SL integration explained
-- [ ] Timeline is realistic
